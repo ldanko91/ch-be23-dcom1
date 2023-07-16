@@ -5,7 +5,7 @@ import handlebars from "express-handlebars";
 import { Server } from "socket.io";
 
 //RUTAS
-import prodsRouter from "./routes/products.routes.js";
+// import prodsRouter from "./routes/products.routes.js";
 import rtpRouter from "./routes/realtimeproducts.routes.js";
 // import cartsRouter from "../routes/carts.routes.js";
 import dbProdsRouter from "./routes/dbProds.routes.js";
